@@ -5,8 +5,9 @@
 <img width="40px" height="20px" src="https://github.com/itxiaoxiaosu/res/blob/master/qq.jpg" alt="QQ">--1056928549<br>
 <img width="40px" height="20px" src="https://github.com/itxiaoxiaosu/res/blob/master/wechat.jpg" alt="微信">--T1056928549<br>
 给大家推荐一下我浏览过，并觉得不错的教程的网址链接。<br>
-<a href="http://www.92csz.com/study/linux">1.linux入门教程</a>。<br>
-<a href="http://es6.ruanyifeng.com">2.es6入门(阮一峰)</a>。<br>
+```
+<a href="http://www.92csz.com/study/linux">1.linux入门教程</a>
+<a href="http://es6.ruanyifeng.com">2.es6入门(阮一峰)</a>
 
 以下是我整理的文档目录<br>
 ```
