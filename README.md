@@ -6,6 +6,7 @@
 给大家推荐一下我浏览过，并觉得不错的教程的网址链接。<br>
 <a href="http://www.92csz.com/study/linux">1.linux入门教程</a>。<br>
 <a href="http://es6.ruanyifeng.com">2.es6入门(阮一峰)</a>。<br>
+<a href="http://sass.bootcss.com/docs/sass-reference">3.sass教程</a>。<br>
 
 以下是我整理的文档目录<br>
 ```
