@@ -1,6 +1,5 @@
 # 我搜集的一些技术摘要或总结
 有幸读到了月光博客的<a href="http://www.williamlong.info/archives/2700.html">《给新手程序员的一封信》</a>，受益匪浅，同时也推荐大家读一读。<br>
-同时欢迎和我联系，一起探讨技术问题。<br>
 <img width="40px" height="20px" src="https://github.com/itxiaoxiaosu/res/blob/master/baidu_cloud.jpg" alt="百度云盘">--火炮兰海蛇基地<br>
 <img width="40px" height="20px" src="https://github.com/itxiaoxiaosu/res/blob/master/qq.jpg" alt="QQ">--1056928549<br>
 <img width="40px" height="20px" src="https://github.com/itxiaoxiaosu/res/blob/master/wechat.jpg" alt="微信">--T1056928549<br>
