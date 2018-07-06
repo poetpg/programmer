@@ -5,6 +5,7 @@
 <a href="http://sass.bootcss.com/docs/sass-reference">3.sass教程</a>。<br>
 <a href="http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html">4.git常用命令(阮一峰)</a>。<br>
 <a href="http://www.iconfont.cn/">5.网站常用图标素材</a>。<br>
+<a href="http://jquery.cuishifeng.cn/">6.jquery api 中文参考手册</a>。<br>
 
 以下是我整理的文档目录<br>
 ```
