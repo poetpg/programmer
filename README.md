@@ -9,7 +9,7 @@
 <a href="http://fex.baidu.com/webuploader/doc/index.html">7.webuploader插件使用手册</a>。<br>
 <a href="https://www.layui.com/doc/modules/layer.html">8.layer使用手册</a>。<br>
 <a href="http://www.cnblogs.com/armyfai/p/3985660.html">9.svn使用教程</a>。<br>
-
+<a href="https://router.vuejs.org/zh/">vue-router教程</a>。<br>
 以下是我整理的文档目录
 1. 程序员技术练级攻略。这个算是启蒙书，建议优先阅读。
 2. linux虚拟机。这个是在windows上安装linux系统虚拟机的教程。
