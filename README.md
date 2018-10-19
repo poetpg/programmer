@@ -1,5 +1,4 @@
 ### 我搜集的一些技术摘要或总结
-有幸读到了月光博客的<a href="http://www.williamlong.info/archives/2700.html">《给新手程序员的一封信》</a>，受益匪浅，同时也推荐大家读一读。<br>
 <a href="http://www.92csz.com/study/linux">1.linux入门教程</a>。<br>
 <a href="http://es6.ruanyifeng.com">2.es6入门(阮一峰)</a>。<br>
 <a href="http://sass.bootcss.com/docs/sass-reference">3.sass教程</a>。<br>
